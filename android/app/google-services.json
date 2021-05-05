@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "450818338286",
+    "project_id": "mavca-8b6d8",
+    "storage_bucket": "mavca-8b6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450818338286:android:21cd11161f72610049b2ff",
+        "android_client_info": {
+          "package_name": "com.capstone.mavca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450818338286-gp3mi6gt4iktsmrf5s6dm69c1njjoaug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8c8w6aNzKfCx8GSAHIMAz9_j6GFkzUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450818338286-gp3mi6gt4iktsmrf5s6dm69c1njjoaug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450818338286-i9hbal3ab27t9tknspah4d1g7d8vi1qp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.capstone.mavca"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
